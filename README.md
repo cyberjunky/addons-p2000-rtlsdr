@@ -1,4 +1,4 @@
-# Home Assistant add-on to receive P2000 messages using your RTL-SDR dongle
+# Home Assistant P2000 RTL-SDR add-on
 
 This repository can be used as a "blueprint" for add-on development to help you get started.
 
