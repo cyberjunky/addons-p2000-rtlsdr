@@ -1,4 +1,4 @@
-# Example Home Assistant add-on repository
+# Home Assistant add-on to receive P2000 messages using your RTL-SDR dongle
 
 This repository can be used as a "blueprint" for add-on development to help you get started.
 
